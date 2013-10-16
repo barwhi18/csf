@@ -1,0 +1,118 @@
+# Name: Whitney Barber
+# Evergreen Login: Barwhi18
+# Computer Science Foundations
+# Programming as a Way of Life
+# Homework 2
+
+# You may do your work by editing this file, or by typing code at the
+# command line and copying it into the appropriate part of this file when
+# you are done.  When you are done, running this file should compute and
+# print the answers to all the problems.
+
+
+###
+### Problem 1
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 1 solution follows:"
+
+n = 101
+x = 1
+total = 0
+
+while x < n:
+    total = total + x
+    x = x + 1
+   
+print total
+      
+    
+###
+### Problem 2
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 2 solution follows:"
+
+
+for x in range (2,10):
+    print(float(1.0 / x))
+
+###
+### Problem 3
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 3 solution follows:"
+
+
+triangle = 1
+for i in range(2,11):
+    triangle = i + triangle
+print triangle
+
+
+###
+### Problem 4
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 4 solution follows:"
+
+n = 10
+x = 1
+for i in range(n):
+    x = x * (i+1)
+    
+print x
+
+###
+### Problem 5
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 5 solution follows:"
+
+n = 10
+x = 1
+for i in range(n):
+    x = x * (i+1)
+while n > 0:
+    x = x / n
+    n = n - 1
+    print x
+
+
+###
+### Problem 6
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 6 solution follows:"
+
+n = 10
+x = 1
+j = 0.0
+for i in range(n):
+    x = x * (i+1)
+    print x
+    j = (1.0 / x) + j
+print j
+
+###
+### Collaboration
+###
+
+# Tutor: Brad Pierog, codeacademy.com, learnstreet.com, kahnacademy.com, 
+# and class text
+
+###
+### Reflection
+###
+
+# This assignment took an estimated 5 hours. I did several tutorials and read 
+# through the class text, but I did not make any progress until I met with a 
+# tutor. I was getting hung up on the smallest mistakes and got very frustrated.
+# Lecture was much more helpful using my own laptop. I was able to save all my 
+# work in class on Canopy as notes.
