@@ -1,2 +1,9 @@
 # Graded by Katrina Sayre
 # saykat03
+
+import lab2.py
+
+From lab2.py import n
+
+print range(n) "hello world" return
+
