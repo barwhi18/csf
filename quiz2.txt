@@ -1,0 +1,5 @@
+import lab2
+import n
+
+if lab2.n < 50:
+   print "n", "is less than 50"
