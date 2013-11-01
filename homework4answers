@@ -25,4 +25,66 @@ T count: 0.283761
 
 Problem 6:
 
+Sample_1.fastq =
 
+Sum Count: 0.999286481481
+Total Count: 27000000
+Sequence Length: 27000000
+
+2
+Sum Count: 0.999164259259
+Total Count: 27000000
+Sequence Length: 27000000
+
+3
+Sum Count: 0.9999952686
+Total Count: 9510928
+Sequence Length: 9510928
+
+4
+Sum Count: 0.999995291057
+Total Count: 9981008
+Sequence Length: 9981008
+
+5
+Sum Count: 0.986842105263
+Total Count: 76
+Sequence Length: 76
+
+6
+Sum Count: 0.99962962963
+Total Count: 27000
+Sequence Length: 27000
+
+high1
+Sum Count: 0.996
+Total Count: 40000
+Sequence Length: 40000
+
+high2
+Sum Count: 0.996025
+Total Count: 40000
+Sequence Length: 40000
+
+modrate1
+Sum Count: 0.996025
+Total Count: 40000
+Sequence Length: 40000
+
+moderate2
+Sum Count: 0.995275
+Total Count: 40000
+Sequence Length: 40000
+
+small
+Sum Count: 1.0
+Total Count: 10
+Sequence Length: 10
+
+Problem 7:
+
+small
+AT/GC Ratio: 2.33333333333
+
+sample_1.fastq =
+AT/GC Ratio: 1.32234161747
