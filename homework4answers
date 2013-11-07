@@ -1,0 +1,112 @@
+Name: Whitney Barber
+Evergreen Login: Barwhi18
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 4 
+
+Problem 5:
+
+Test=
+
+GC-content: 0.3
+AT-content: 0.7
+G count: 0.1
+C count: 0.2
+A count: 0.5
+T count: 0.2
+
+Sample_1.fastq =
+
+G count: 0.212547148148
+C count: 0.217745481481
+A count: 0.285232851852
+T count: 0.283761
+
+Problem 6:
+
+Sample_1.fastq =
+
+Sum Count: 0.999286481481
+Total Count: 27000000
+Sequence Length: 27000000
+
+Sample_2.fastq =
+
+Sum Count: 0.999164259259
+Total Count: 27000000
+Sequence Length: 27000000
+
+Sample_3.fastq =
+
+Sum Count: 0.9999952686
+Total Count: 9510928
+Sequence Length: 9510928
+
+Sample_4.fastq =
+
+Sum Count: 0.999995291057
+Total Count: 9981008
+Sequence Length: 9981008
+
+Sample_5.fastq =
+
+Sum Count: 0.986842105263
+Total Count: 76
+Sequence Length: 76
+
+Sample_6.fastq =
+
+Sum Count: 0.99962962963
+Total Count: 27000
+Sequence Length: 27000
+
+data/test-high-gc-1.fastq =
+
+Sum Count: 0.996
+Total Count: 40000
+Sequence Length: 40000
+
+data/test-high-gc-2.fastq =
+
+Sum Count: 0.996025
+Total Count: 40000
+Sequence Length: 40000
+
+data/test-moderate-gc-1.fastq = 
+
+Sum Count: 0.996025
+Total Count: 40000
+Sequence Length: 40000
+
+data/test-moderate-gc-2.fastq =
+
+Sum Count: 0.995275
+Total Count: 40000
+Sequence Length: 40000
+
+test-small.fastq =
+
+Sum Count: 1.0
+Total Count: 10
+Sequence Length: 10
+
+####################### Problem 7:
+
+small
+AT/GC Ratio: 2.33333333333
+
+sample_1.fastq =
+AT/GC Ratio: 1.32234161747
+
+####################### Problem 8:
+
+GC classification: Moderate
+
+######################## Collaboration and reflection
+
+Collaboration: Katie Sayre
+
+From Assignment 4 I learned about running a python program through my command line, copying and editing a code to 
+re use the code, and using if, elif, and else. I struggled when I switched from the lab computer to my personal 
+laptop because I was running the beginning of hw3 and not my current hw4. 

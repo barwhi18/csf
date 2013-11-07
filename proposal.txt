@@ -1,0 +1,19 @@
+I would like to create a python program to calculate derivative solutions to problems from my calculus class.
+
+example imput:
+
+e ** x
+
+example output:
+
+e ** x
+
+example input:
+
+a = x ** 2 + 1
+b = 2 * x
+
+(f(a+h)-f(b))/h
+
+example output:
+

@@ -1,0 +1,62 @@
+Name: Whitney
+Evergreen Login: Barwhi18
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+
+GC-content: 0.43029262963
+GC-content: 0.451051333333
+GC-content: 0.646864112524
+GC-content: 0.347852341166
+GC-content: 0.263157894737
+GC-content: 0.491518518519
+
+Problem 3:
+
+Traceback (most recent call last):
+  File "dna_analysis.py", line 40, in <module>
+    linenum = linenum + 1
+NameError: name 'linenum' is not defined
+barwhi18@ccm-2610-d5:homework3$ seq = ""
+seq: invalid floating point argument: =
+
+barwhi18@ccm-2610-d5:homework3$ python dna_analysis.py data/sample_1.fastq
+Traceback (most recent call last):
+  File "dna_analysis.py", line 66, in <module>
+    gc_count = gc_count + 1
+NameError: name 'gc_count' is not defined
+
+these variables become undefined, therefor the program cannot run successfully.
+
+Problem 4:
+
+AT-content: 0.568993851852
+AT-content: 0.548112925926
+AT-content: 0.353131156076
+AT-content: 0.65214294989
+AT-content: 0.723684210526
+AT-content: 0.508111111111
+
+Collaboration:
+
+Katie Sayre
+
+Reflection:
+
+I had a hard time getting started with this homework, but after I received some help from classmates I was able to get through it.
