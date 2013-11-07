@@ -35,4 +35,8 @@ if series == str(sum):
         print sum in range((3*b), 3, (3*n))
         
 else:
+<<<<<<< HEAD
     print "invalid string"
+=======
+    print "invalid string"
+>>>>>>> de1f35043a407c221abaf3785c44431520182e2e
