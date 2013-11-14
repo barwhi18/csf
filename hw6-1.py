@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Whitney Barber, Alejandro Chavez, Zach Adam (group 24)
+# Evergreen Login: Barwhi18
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 6
