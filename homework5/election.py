@@ -35,8 +35,13 @@ def state_edges(election_result_rows):
     The input list does has no duplicate states;
     that is, each state is represented at most once in the input list.
     """
-    #TODO: Implement this function
-    pass
+    state_advantages = {}
+    for row in election_result_rows:
+        edge = row_to_edge(row)
+        State = (row['State'])
+        state_advantages[State] = edge
+    return state_advantages
+    
 
 
 ################################################################################
